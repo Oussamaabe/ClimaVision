@@ -4,8 +4,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/Oussamaabe/ClimaVision?style=social)](https://github.com/Oussamaabe/ClimaVision/stargazers)
 [![Open Issues](https://img.shields.io/github/issues/Oussamaabe/ClimaVision)](https://github.com/Oussamaabe/ClimaVision/issues)
 
-![ClimaVision Banner](https://via.placeholder.com/1200x400/4d6fb3/ffffff?text=ClimaVision+-+Weather+Intelligence+Redefined)
-
 ClimaVision is an advanced weather visualization platform that transforms complex meteorological data into intuitive visual insights. Designed for both casual users and weather enthusiasts, it provides hyperlocal forecasts, historical trends, and climate analytics through an elegant interface.
 
 ## 🌟 Key Features
@@ -79,8 +77,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-Experience ClimaVision: [https://climavision.app](https://climavision.app)  
-*Demo account: user@demo.com | demo123*
+Experience ClimaVision: [https://climavision.app](https://climaa-vision.netlify.app/)  
 
 ## 🧩 Project Structure
 
@@ -127,12 +124,11 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## ✉️ Contact
 
-Project Maintainer: [Oussama Abed](https://github.com/Oussamaabe)  
-Email: oussama.abed@example.com
+Project Maintainer: [Oussama Belfakir](https://github.com/Oussamaabe)  
 
 Project Link: [https://github.com/Oussamaabe/ClimaVision](https://github.com/Oussamaabe/ClimaVision)
 
 ---
 
-**Made with ❤️ and ☕ by Oussama Abed**  
+**Made by Oussama Belfakir**  
 *Weather intelligence for a changing world*
