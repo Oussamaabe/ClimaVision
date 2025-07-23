@@ -179,7 +179,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## ✉️ Contact
 
-Oussama Abed - [@Oussamaabe](https://github.com/Oussamaabe)  
+Oussama Belfakir - [@Oussamaabe](https://github.com/Oussamaabe)  
 Project Link: [https://github.com/Oussamaabe/ClimaVision](https://github.com/Oussamaabe/ClimaVision)
 
 ---
