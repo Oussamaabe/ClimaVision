@@ -5,8 +5,6 @@
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-![ClimaVision Banner](https://via.placeholder.com/1200x400/4d6fb3/ffffff?text=ClimaVision+-+Real-time+Weather+Visualization)
-
 ClimaVision is an interactive weather dashboard that transforms complex meteorological data into intuitive visual insights. Built with modern web technologies, it provides real-time weather forecasts, interactive charts, and a seamless user experience for exploring weather patterns.
 
 **Live Demo:** [https://climaa-vision.netlify.app](https://climaa-vision.netlify.app)
