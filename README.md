@@ -69,12 +69,6 @@ WEATHERAPI_KEY=your_key
 npm run dev
 ```
 
-## 📸 Application Preview
-
-| Dashboard Overview | Interactive Map | Historical Analysis |
-|--------------------|-----------------|---------------------|
-| ![Dashboard](https://via.placeholder.com/300x200/4d6fb3/ffffff?text=Dashboard+View) | ![Map View](https://via.placeholder.com/300x200/4d6fb3/ffffff?text=Interactive+Map) | ![Historical View](https://via.placeholder.com/300x200/4d6fb3/ffffff?text=Historical+Analysis) |
-
 ## 🌐 Live Demo
 
 Experience ClimaVision: [https://climavision.app](https://climaa-vision.netlify.app/)  
